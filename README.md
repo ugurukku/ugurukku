@@ -15,8 +15,3 @@
 <img align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=ugurukku&theme=dark&show_icons=true" />
 </div>
 
-<div style="display: flex; flex-direction: row;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurukku&show_icons=true&locale=en&layout=compact" alt="ugurukku" />
-</div>
-
-
