@@ -13,5 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurukku&show_icons=true&locale=en&layout=compact" alt="ugurukku" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ugurukku&show_icons=true&locale=en" alt="ugurukku" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ugurukku&show_icons=true&locale=en" alt="ugurukku" /></p>
 
