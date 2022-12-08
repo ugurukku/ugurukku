@@ -1,4 +1,4 @@
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=dark" alt="ugurukku" data-canonical-src="" style="max-width: 100%;"></a>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=dark" alt="ugurukku" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ugurukku&show_icons=true&theme=dark" style="max-width: 100%;"></a>
 </p>
 <!-- https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=great-gatsby -->
 <h3 align="left">Connect with me:</h3>
