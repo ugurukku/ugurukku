@@ -1,6 +1,6 @@
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=dark" alt="ugurukku" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=great-gatsby" style="max-width: 100%;"></a>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=dark" alt="ugurukku" data-canonical-src="" style="max-width: 100%;"></a>
 </p>
-
+<!-- https://github-readme-stats.vercel.app/api?username=ugurukku&amp;show_icons=true&amp;theme=great-gatsby -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ugurr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugurr" height="30" width="40" /></a>
